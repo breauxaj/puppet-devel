@@ -15,9 +15,7 @@ class devel (
       'make',
       'openssl-devel',
       'patch',
-      'readline',
       'readline-devel',
-      'zlib',
       'zlib-devel'
     ],
   }
